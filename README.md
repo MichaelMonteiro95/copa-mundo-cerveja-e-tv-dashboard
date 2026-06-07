@@ -17,7 +17,7 @@ Dashboard desenvolvido em Power BI analisando a correlação entre as edições 
 | Crescimento de cerveja no Brasil em anos de Copa | ▲ 5,0% |
 | Crescimento de TV em anos de Copa (mundo) | ▲ 2,7% |
 | Diferença cerveja Copa vs demais anos (Brasil) | 🟢 4,5 p.p |
-| Diferença cerveja por campanha (≥ Quartas vs ≤ Oitavas) | 🟢 6,5 p.p |
+| Diferença cerveja por campanha (≥ Quartas vs ≤ Oitavas) | 🟢 5,9 p.p |
 | Diferença TV Copa vs demais anos | 🟢 3,0 p.p |
 
 ---
