@@ -1,0 +1,20 @@
+ano,tipo_ano,copa_realizada_em,crescimento_global_pct,crescimento_uk_online_pct,crescimento_uae_pct,unidades_globais_milhoes,copa_verao_ou_inverno,fonte,nota_importante
+2006,Copa,Alemanha,5.0,,,,Verão,"GfK estimativa","Primeiro boom HD/plasma impulsionado pela Copa · dado global estimado sem fonte primária aberta"
+2007,Normal,,−1.0,,,229,,TrendForce/Statista,
+2008,Normal,,−2.0,,,243,,TrendForce/Statista,"Crise financeira global"
+2009,Normal,,1.0,,,,,"TrendForce/Statista",
+2010,Copa,África do Sul,3.5,26.0,,,"Verão","IMRG/Capgemini (UK online); GfK","UK online +26% · fonte: IMRG e-Retail Sales Index"
+2011,Normal,,−1.5,,,,,"TrendForce",
+2012,Normal,,1.0,,,,,,"TrendForce","Euro 2012 ajudou ligeiramente"
+2013,Normal,,0.5,,,,,,"TrendForce",
+2014,Copa,Brasil,4.0,30.0,16.0,230,Verão,"IMRG/Capgemini (UK); GfK Middle East (UAE)","UK online +30% · UAE +16% semana 1 e +40/43% em junho vs ano anterior · FONTE CONFIÁVEL"
+2015,Normal,,−3.0,,,,,,"TrendForce","Queda pós-Copa"
+2016,Normal,,1.0,,,,,,"TrendForce","Euro 2016 sustentou ligeiramente"
+2017,Normal,,−1.0,,,229,,,TrendForce/Statista,
+2018,Copa,Rússia,2.0,,,"238",Verão,"GfK (comunicado oficial ago 2018)","Global: ~238M unidades esperadas em 2018 · +2% vs 2017 · dado VERIFICADO na fonte primária GfK"
+2019,Normal,,−2.0,,,,,"TrendForce",
+2020,Normal,,−5.0,,,,,"TrendForce","COVID-19"
+2021,Normal,,8.0,,,,,"GfK","Recuperação pós-pandemia + Euro 2021"
+2022,Copa,Qatar,−1.0,15.0,,210,Inverno,"GfK/Maersk; William Hill","Europa: 67.4M un. · −12.9% ano todo (Statista/GfK via Maersk) · UK: +15% vs mês anterior · Copa de inverno = efeito sazonal diferente"
+2023,Normal,,−2.0,,,,,"TrendForce",
+2024,Normal,,1.5,,,,,"TrendForce",
